@@ -1,0 +1,110 @@
+Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures
+Denoising diffusion probabilistic models for 3D medical image generation
+An end-to-end deep learning generative framework for refinable shape matching and generation
+Tumor Synthesis Conditioned on Radiomics
+Achieving state-of-the-art performance in the Medical Out-of-Distribution (MOOD) challenge using plausible synthetic anomalies
+SAM-Med3D: A Vision Foundation Model for General-Purpose Segmentation on Volumetric Medical Images.
+Large Intestine 3D Shape Refinement Using Conditional Latent Point Diffusion Models
+Steerable Anatomical Shape Synthesis with Implicit Neural Representations
+An Efficient Model-Driven Groupwise Approach for Atlas Construction
+3D organ shape reconstruction from Topogram images
+AnatomyGen: deep anatomy generation from dense representation with applications in mandible synthesis
+Decompose to manipulate: Manipulable object synthesis in 3D medical images with structured image decomposition
+3D marker-controlled watershed for kidney segmentation in clinical CT exams
+Methodology of generation of CFD meshes and 4D shape reconstruction of coronary arteries from patient-specific dynamic CT.
+Generative 3D Cardiac Shape Modelling for in-silico Trials.
+3D shape reconstruction of the femur from planar X-ray images using statistical shape and appearance models.
+Synthesis of realistic subcortical anatomy with known surface deformations
+Shape registration with learned deformations for 3D shape reconstruction from sparse and incomplete point clouds.
+Implicit Neural Representations for Generative Modeling of Living Cell Shapes
+Gradient-SDF: A Semi-Implicit Surface Representation for 3D Reconstruction
+SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation
+LION: Latent Point Diffusion Models for 3D Shape Generation
+AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation
+Diffusion-SDF: Text-to-Shape via Voxelized Diffusion
+SDF‐StyleGAN: Implicit SDF‐Based StyleGAN for 3D Shape Generation
+Towards Implicit Text-Guided 3D Shape Generation
+Brain Imaging Generation with Latent Diffusion Models
+Structure-aware shape synthesis
+Task-Aware 3D Geometric Synthesis
+Realistic lung nodule synthesis with multi-target co-guided adversarial mechanism
+Aortic Valve Leaflet Shape Synthesis With Geometric Prior From Surrounding Tissue
+Neural Volumetric Mesh Generator
+Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion
+A generative shape compositional framework to synthesize populations of virtual chimeras
+Approximating Signed Distance Fields of Implicit Surfaces with Sparse Ellipsoidal Radial Basis Function Networks
+Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation
+Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models
+MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views
+MedShapeNet – a large-scale dataset of 3D medical shapes for computer vision
+Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes
+3D Shape Generation and Completion through Point-Voxel Diffusion
+Local Deep Implicit Functions for 3D Shape
+Implicit Geometric Regularization for Learning Shapes
+Autolabeling 3D Objects With Differentiable Rendering of SDF Shape Priors
+VM-UNet: Vision Mamba UNet for Medical Image Segmentation
+SegMamba: Long-Range Sequential Modeling Mamba for 3D Medical Image Segmentation
+UNETR: Transformers for 3D Medical Image Segmentation
+MedViT: A robust vision transformer for generalized medical image classification
+Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis
+Advances in medical image analysis with vision Transformers: A comprehensive review
+Transformers in medical image analysis
+LViT: Language Meets Vision Transformer in Medical Image Segmentation
+Deep learning-enabled medical computer vision
+Learning Scene-Level Signed Directional Distance Function with Ellipsoidal Priors and Neural Residuals
+UNSURF: Uncertainty Quantification for Cortical Surface Reconstruction of Clinical Brain MRIs
+CrossGen: Learning and Generating Cross Fields for Quad Meshing
+High Resolution UDF Meshing via Iterative Networks
+Med3DVLM: An Efficient Vision-Language Model for 3D Medical Image Analysis
+MedM-VL: What Makes a Good Medical LVLM?
+Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training
+Cardiovascular Medical Image and Analysis based on 3D Vision: A Comprehensive Survey
+Computer vision and machine learning for medical image analysis: recent advances, challenges, and way forward
+FastSAM-3DSlicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification
+SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion
+3D-CT-GPT: Generating 3D Radiology Reports through Integration of Large Vision-Language Models
+3D Representation Methods: A Survey
+Implementation of computer vision technology based on artificial intelligence for medical image analysis
+Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study
+Texture synthesis for 3D shape representation
+Hierarchical Shape-Consistent Transformer for Unsupervised Point Cloud Shape Correspondence.
+Reach For the Spheres: Tangency-Aware Surface Reconstruction of SDFs
+Marching-Primitives: Shape Abstraction from Signed Distance Function
+Artificial Intelligence‐Driven Decisions in Breast Cancer Diagnosis
+Differentiable Rendering of Neural SDFs through Reparameterization
+Self-supervised anomaly detection with random-shape pseudo-outliers
+Simulation and synthesis in medical imaging
+Meshless Monte Carlo Radiation Transfer Method for Curved Geometries using Signed Distance Functions
+Fast tree skeleton extraction using voxel thinning based on tree point cloud
+A novel tree-structured point cloud dataset for skeletonization algorithm evaluation
+Abn-BLIP: Abnormality-aligned Bootstrapping Language-Image Pre-training for Pulmonary Embolism Diagnosis and Report Generation from CTPA
+Next-Generation Deep Learning Approaches for Kidney Tumor Image Analysis: Challenges, Clinical Applications, and Future Perspectives
+General lightweight framework for vision foundation model supporting multi-task and multi-center medical image analysis.
+Super-resolution of 3D medical images by generative adversarial networks with long and short-term memory and attention.
+VELVET-Med: Vision and Efficient Language Pre-training for Volumetric Imaging Tasks in Medicine
+MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis
+Slim UNETR++: A lightweight 3D medical image segmentation network for medical image analysis.
+A vision attention driven Language framework for medical report generation.
+TTT-Vnet: a 3D vision test-time training model for medical image analysis
+TDFormer: Top-Down Token Generation for 3D Medical Image Segmentation.
+Grouped multi-scale vision transformer for medical image segmentation.
+Artificial General Intelligence for Medical Imaging Analysis.
+Vision Mamba and xLSTM-UNet for medical image segmentation.
+From vision to text: A comprehensive review of natural image captioning in medical diagnosis and radiology report generation.
+Enhancing adaptive proton therapy through CBCT images: Synthetic head and neck CT generation based on 3D vision transformers.
+Comparison of Vision Transformers and Convolutional Neural Networks in Medical Image Analysis: A Systematic Review.
+3D-DGGAN: A Data-Guided Generative Adversarial Network for High Fidelity in Medical Image Generation.
+Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient
+M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models
+Med-2E3: A 2D-Enhanced 3D Medical Multimodal Large Language Model
+Vision, body and interpretation in medical imaging diagnostics.
+Bioelectric stimulation controls tissue shape and size.
+Adapting Pre-trained Vision Transformers from 2D to 3D through Weight Inflation Improves Medical Image Segmentation
+Inflating 2D convolution weights for efficient generation of 3D medical images.
+Unified Medical Image Pre-training in Language-Guided Common Semantic Space
+Tongue shape synthesis based on Active Shape Model
+Masked Image Modeling Advances 3D Medical Image Analysis
+Medical Image Segmentation with 3D Convolutional Neural Networks: A Survey
+Displaying voxel-based objects according to their qualitative shape synthesis
+3D Deep Learning on Medical Images: A Review
+Geometric analysis of shapes and its application to medical image analysis.
