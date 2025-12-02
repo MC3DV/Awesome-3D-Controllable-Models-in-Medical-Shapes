@@ -1,4 +1,4 @@
-### 1.通用 3D 形状生成 / 重建（NeRF / SDF / Diffusion / 隐式表示等）
+### 1.General 3D shape generation/reconstruction (NeRF/SDF/Diffusion/implicit representation, etc.)
 
 #### Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures\
 
@@ -239,7 +239,7 @@
 
 [[Paper](https://papers.miccai.org/miccai-2024/paper/2031_paper.pdf)]
 
-### 2.医学解剖形状建模与几何网格重建（心脏/血管/骨骼/器官等）
+### 2.Medical anatomical shape modeling and geometric mesh reconstruction (heart/blood vessels/bones/organs, etc.)
 
 #### Large Intestine 3D Shape Refinement Using Conditional Latent Point Diffusion Models
 
@@ -449,7 +449,7 @@
 [11th Jan., 2024] [bioRxiv, 2024] \
 [[Paper](https://www.biorxiv.org/content/10.1101/2024.01.09.574919v1)]
 
-### 3.3D/4D时序医学图像生成与扩散模型（含可控生成)
+### 3.3D/4D temporal medical image generation and diffusion model (including controllable generation)
 
 #### Denoising diffusion probabilistic models for 3D medical image generation
 
@@ -784,7 +784,7 @@
 
 [[Paper](https://link.springer.com/article/10.1007/s11019-024-10200-3)]
 
-### 4.医学图像分割 / 分类与 Transformer / Mamba / CNN
+### 4.Medical image segmentation/classification with Transformer/Mamba/CNN
 
 #### SAM-Med3D: A Vision Foundation Model for General-Purpose Segmentation on Volumetric Medical Images.
 
@@ -930,7 +930,7 @@
 
 [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/134062Y/TTT-Vnet--a-3D-vision-test-time-training-model/10.1117/12.3047499.short)]
 
-### 5.Transformer / ViT 在医学影像中的应用与综述
+### 5.Applications and Overview of Transformer/ViT in Medical Imaging
 
 #### Advances in medical image analysis with vision Transformers: A comprehensive review
 
@@ -964,7 +964,7 @@
 
 [[Paper](https://arxiv.org/abs/2306.05480)]
 
-### 6. 3D 形状生成、数据集与综述（通用 + 医学）
+### 6. 3D Shape Generation, Datasets, and Reviews (General + Medical)
 
 #### 3D Representation Methods: A Survey
 
@@ -1016,7 +1016,7 @@
 [13th Aug., 2025] [arXiv, 2025] \
 [[Paper](https://arxiv.org/abs/2508.09177)]
 
-### 8.医学基础网络 / 模型训练技巧（ViT 通用预训练等）
+### 7.Medical basic network/model training techniques (ViT general pre-training, etc.)
 
 #### FastSAM-3DSlicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification
 
@@ -1042,7 +1042,7 @@
 
 [[Paper](https://ieeexplore.ieee.org/document/9871621)]
 
-### 9.自然场景 3D 重建 / 3D 打印与临床应用
+### 8.3D Reconstruction of Natural Scenes / 3D Printing and Clinical Applications
 
 #### MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views
 
@@ -1106,7 +1106,7 @@
 [13th May, 2025] [PMC, 2025] \
 [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12075794/)]
 
-### 10.点云 / 统计形状 / 点云扩散与补全
+### 9.Point cloud / Statistical shape / Point cloud diffusion and completion
 
 #### Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images
 
@@ -1156,7 +1156,7 @@
 [25th Jun., 2025] [PMC, 2025] \
 [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12188318/)]
 
-### 11.骨架、血管树与拓扑结构（重建/分割/生成）
+### 10.Skeleton, vascular tree, and topology (reconstruction/segmentation/generation)
 
 #### Fast vascular skeleton extraction algorithm
 
