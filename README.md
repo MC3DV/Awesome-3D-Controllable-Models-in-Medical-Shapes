@@ -3,6 +3,7 @@
 #### Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures\
 
 **Gal Metzer, Elad Richardson, Or Patashnik, Raja Giryes, Daniel Cohen-Or\**
+
 [14th Nov., 2022] [CVPR 2023] \
 
 [[Paper](https://arxiv.org/abs/2211.07600)]
@@ -350,7 +351,9 @@
 #### Lightweight triangular mesh deformable reconstruction for low-resolution and roughly segmented 3D medical images
 
 **Hongkai Yu, Guoying Hao, Yibo Gao \**
+
 [01st Sep., 2025] [ScienceDirect, 2025] \
+
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482525006791)]
 
 #### Enhanced Algorithm for Reconstruction of Three-Dimensional Mesh Models from Medical Images for Deep Learning\
@@ -362,19 +365,25 @@
 #### Delaunay Mesh Reconstruction from 3D Medical Images Based on Centroidal Voronoi Tessellation
 
 **Authors not specified \**
+
 [01st Jan., 2009] [IEEE, 2009] \
+
 [[Paper](https://ieeexplore.ieee.org/document/5364777/)]
 
 #### A deep-learning approach for direct whole-heart mesh reconstruction
 
 **Feng Hou, Benjamin A Watson, Yan Xia, Yu-Wei Wu, Hao Shen, Yan-Jie Zhou, Hong-Quan Kou, Cheng Zhong, Yu-Jie Chen, Lei Xu, Jing-Jing Xiao, Hualin Qiao, Shu-Sheng Li, You-Yi Zheng, Dinggang Shen, Li Wang \**
+
 [01st Sep., 2021] [PMC, 2021] \
+
 [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC9503710/)]
 
 #### Advanced 3D Mesh Generation from 2D Images in Python
 
 **Authors not specified \**
+
 [16th Feb., 2024] [Medium, 2024] \
+
 [[Paper](https://medium.com/red-buffer/beyond-the-surface-advanced-3d-mesh-generation-from-2d-images-in-python-0de6dd3944ac)]
 
 #### Neuronal Mesh Reconstruction from Image Stacks Using Implicit Neural Representations
