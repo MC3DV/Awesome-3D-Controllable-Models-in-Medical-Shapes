@@ -1,5 +1,5 @@
 ## Awesome-3D-Controllable-Models-in-Medical-Shapes 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![Last updated](https://img.shields.io/github/last-commit/MC3DV/Awesome-3D-Controllable-Models-in-Medical-Shapes?label=Last%20updated)
 
 
 ### 1.General 3D shape generation/reconstruction (NeRF/SDF/Diffusion/implicit representation, etc.)
