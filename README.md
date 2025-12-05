@@ -3,16 +3,16 @@
 
 ## Contents
 
-- [1. General 3D shape generation/reconstruction (NeRF/SDF/Diffusion/implicit representation, etc.)](#1general-3d-shape-generationreconstruction-nerfsdfdiffusionimplicit-representation-etc)
-- [2. Medical anatomical shape modeling and geometric mesh reconstruction (heart/blood vessels/bones/organs, etc.)](#2medical-anatomical-shape-modeling-and-geometric-mesh-reconstruction-heartblood-vesselsbonesorgans-etc)
-- [3. 3D/4D temporal medical image generation and diffusion model (including controllable generation)](#33d4d-temporal-medical-image-generation-and-diffusion-model-including-controllable-generation)
-- [4. Medical image segmentation/classification with Transformer/Mamba/CNN](#4medical-image-segmentationclassification-with-transformermambacnn)
-- [5. Applications and Overview of Transformer/ViT in Medical Imaging](#5applications-and-overview-of-transformervit-in-medical-imaging)
-- [6. 3D Shape Generation, Datasets, and Reviews (General + Medical)](#63d-shape-generation-datasets-and-reviews-general--medical)
-- [7. Medical basic network/model training techniques (ViT general pre-training, etc.)](#7medical-basic-networkmodel-training-techniques-vit-general-pre-training-etc)
-- [8. 3D Reconstruction of Natural Scenes / 3D Printing and Clinical Applications](#83d-reconstruction-of-natural-scenes--3d-printing-and-clinical-applications)
-- [9. Point cloud / Statistical shape / Point cloud diffusion and completion](#9point-cloud--statistical-shape--point-cloud-diffusion-and-completion)
-- [10. Skeleton, vascular tree, and topology (reconstruction/segmentation/generation)](#10skeleton-vascular-tree-and-topology-reconstructionsegmentationgeneration)
+- [1️⃣. General 3D shape generation/reconstruction (NeRF/SDF/Diffusion/implicit representation, etc.)](#1general-3d-shape-generationreconstruction-nerfsdfdiffusionimplicit-representation-etc)
+- [2️⃣. Medical anatomical shape modeling and geometric mesh reconstruction (heart/blood vessels/bones/organs, etc.)](#2medical-anatomical-shape-modeling-and-geometric-mesh-reconstruction-heartblood-vesselsbonesorgans-etc)
+- [3️⃣. 3D/4D temporal medical image generation and diffusion model (including controllable generation)](#33d4d-temporal-medical-image-generation-and-diffusion-model-including-controllable-generation)
+- [4️⃣. Medical image segmentation/classification with Transformer/Mamba/CNN](#4medical-image-segmentationclassification-with-transformermambacnn)
+- [5️⃣. Applications and Overview of Transformer/ViT in Medical Imaging](#5applications-and-overview-of-transformervit-in-medical-imaging)
+- [6️⃣. 3D Shape Generation, Datasets, and Reviews (General + Medical)](#6-3d-shape-generation-datasets-and-reviews-general-medical)
+- [7️⃣. Medical basic network/model training techniques (ViT general pre-training, etc.)](#7medical-basic-networkmodel-training-techniques-vit-general-pre-training-etc)
+- [8️⃣. 3D Reconstruction of Natural Scenes / 3D Printing and Clinical Applications](#83d-reconstruction-of-natural-scenes--3d-printing-and-clinical-applications)
+- [9️⃣. Point cloud / Statistical shape / Point cloud diffusion and completion](#9point-cloud--statistical-shape--point-cloud-diffusion-and-completion)
+- [🔟. Skeleton, vascular tree, and topology (reconstruction/segmentation/generation)](#10skeleton-vascular-tree-and-topology-reconstructionsegmentationgeneration)
 
 
 ## Paper List
